@@ -1,0 +1,16 @@
+
+
+.gridItem{
+    background-color: white;
+    border:1px solid;
+    padding:20px;
+    box-sizing: border-box;
+}
+
+.gridContainer{
+    margin: 10px 20px;
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+    background-color: black;
+    box-shadow: 0 2px 4px 0;
+}

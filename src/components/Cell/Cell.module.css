@@ -1,0 +1,23 @@
+
+.gridItem{
+    background-color: blue;
+    border:1px solid;
+    padding:80px;
+    box-sizing: border-box;
+}
+
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
+}
+
+.start{
+    background-color: crimson;
+}
+
+.end{
+   background-color: darkmagenta;
+}

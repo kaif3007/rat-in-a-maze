@@ -1,0 +1,17 @@
+
+.gridContainer{
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+    background-color: black;
+    box-shadow: 0 4px 8px 0;
+}
+
+
+.secondaryContainer{
+    display:grid;
+    grid-template-columns: repeat(4,1fr);
+}
+
+.container{
+    margin-top: 30px;
+}
